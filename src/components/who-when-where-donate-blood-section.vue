@@ -1,20 +1,20 @@
 <template>
   <div>
-    <h2>Informações sobre Doação de Sangue em Manaus</h2>
+    <h2>Informações sobre Doação de Sangue em São Carlos</h2>
     <p>
-      A doação de sangue é um ato de solidariedade que pode salvar muitas vidas. Em Manaus, você pode doar sangue na Fundação Hospitalar de Hematologia e Hemoterapia do Amazonas (HEMOAM).
+      A doação de sangue é um ato de solidariedade que pode salvar muitas vidas. Em São Carlos, você pode doar sangue na Santa Casa.
     </p>
     
     <h3>Local e Horário</h3>
     <p>
-      <strong>Endereço:</strong> Av. Constantino Nery, 4397, Chapada, Manaus, AM<br>
-      <strong>Horário:</strong> Segunda a sábado, das 7h às 18h
+      <strong>Endereço:</strong> R. Paulino Botelho de Abreu Sampaio, 573 - Jardim Pureza, São Carlos - SP, 13561-060<br>
+      <strong>Horário:</strong> Segunda a sexta-feira, das 8h às 11h45
+Sábado, das 8h às 10h45 da manhã.
     </p>
     
     <h3>Contato</h3>
     <p>
-      <strong>Telefone:</strong> (92) 3655-0100<br>
-      <strong>Agendamento:</strong> (92) 3655-0166 ou (WhatsApp) (92) 98431-9920
+      <strong>Agendamento:</strong> (16) 3509-1230, De segunda a sexta-feira, das 8h às 15h30
     </p>
     
     <h3>Requisitos para Doação</h3>
@@ -47,7 +47,7 @@
     
     <h3>Mais Informações</h3>
     <p>
-      Para mais detalhes, visite o <a href="http://www.hemoam.am.gov.br" target="_blank">site do HEMOAM</a>.
+      Para mais detalhes, visite o <a href="https://www.santacasasaocarlos.com.br/BancoDeSangue" target="_blank">site da Santa Casa</a>.
     </p>
 
     <!-- <div class="cards">
